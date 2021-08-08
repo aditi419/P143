@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h1{
+   display: inline;
+   font-size: 25px;
+}
+
+.instructions{
+    float: right;
+    border: 1px solid white;
+}
+
+.playBtn,#restart{
+    font-size: 18px;
+    width: 80px;
+    text-align: center;
+}
+
+canvas{
+    border-color: white;
+    border: solid;
+    border-radius: 20px;
+}
+
